@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Colours {
+class KColours {
   // red
   static const Color red100 = Color(0xFFFFEDEB);
   static const Color red200 = Color(0xFFFFD2CC);
