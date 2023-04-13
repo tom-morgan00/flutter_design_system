@@ -112,6 +112,7 @@ class KColours {
   static const Color neutral1100 = Color(0xFF091E42);
 
   // alpha
+  static const Color transparent = Color(0x00000000);
   static const Color neutral100A = Color(0x08091E42);
   static const Color neutral200A = Color(0x0F091E42);
   static const Color neutral300A = Color(0x24091E42);
