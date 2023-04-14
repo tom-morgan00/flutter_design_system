@@ -2,7 +2,9 @@ import 'color_palette.dart';
 import 'package:flutter/material.dart';
 
 class KTextColors {
-  static const Color text = KColours.neutral1000;
+  static const Color text = KColours.neutral800;
+  static const Color textBold = KColours.neutral1000;
+  static const Color onPrimary = KColours.neutral0;
   static const Color disabled = KColours.neutral400A;
   static const Color inverse = KColours.neutral0;
   static const Color selected = KColours.blue700;
