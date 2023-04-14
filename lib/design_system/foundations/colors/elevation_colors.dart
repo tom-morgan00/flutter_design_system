@@ -1,7 +1,7 @@
 import 'color_palette.dart';
 import 'package:flutter/material.dart';
 
-class ElevationColors {
+class KElevationColors {
   static const Color surface = KColours.neutral0;
   static const Color surfaceHovered = KColours.neutral200;
   static const Color surfacePressed = KColours.neutral300;

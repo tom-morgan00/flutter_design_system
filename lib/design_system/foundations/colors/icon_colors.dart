@@ -1,7 +1,7 @@
 import 'color_palette.dart';
 import 'package:flutter/material.dart';
 
-class IconColors {
+class KIconColors {
   static const Color icon = KColours.neutral800;
   static const Color disabled = KColours.neutral400A;
   static const Color inverse = KColours.neutral0;

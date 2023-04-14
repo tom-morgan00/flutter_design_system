@@ -1,7 +1,7 @@
 import 'color_palette.dart';
 import 'package:flutter/material.dart';
 
-class ChartColors {
+class KChartColors {
   static const Color category1 = KColours.teal600;
   static const Color category1Hovered = KColours.teal700;
   static const Color category2 = KColours.purple800;

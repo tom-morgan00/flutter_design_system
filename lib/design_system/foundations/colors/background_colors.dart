@@ -1,7 +1,7 @@
 import 'color_palette.dart';
 import 'package:flutter/material.dart';
 
-class BackgroundColors {
+class KBackgroundColors {
   static const Color text = KColours.neutral1000;
   static const Color disabled = KColours.neutral100A;
   static const Color input = KColours.neutral0;

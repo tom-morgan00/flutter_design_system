@@ -1,7 +1,7 @@
 import 'color_palette.dart';
 import 'package:flutter/material.dart';
 
-class BorderColors {
+class KBorderColors {
   static const Color border = KColours.neutral300A;
   static const Color disabled = KColours.neutral200A;
   static const Color focused = KColours.blue500;
