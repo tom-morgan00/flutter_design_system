@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 
 class KBackgroundColors {
   static const Color text = KColours.neutral1000;
+  static const Color surface = KColours.neutral0;
+  static const Color background = KColours.neutral0;
   static const Color disabled = KColours.neutral100A;
   static const Color input = KColours.neutral0;
   static const Color inputHovered = KColours.neutral100;
@@ -58,6 +60,11 @@ class KBackgroundColors {
   static const Color informationBold = KColours.blue700;
   static const Color informationBoldHovered = KColours.blue800;
   static const Color informationBoldPressed = KColours.blue900;
+
+  // elevation
+  static const Color surfaceSunken = KColours.neutral100;
+  static const Color surfaceHovered = KColours.neutral200;
+  static const Color surfacePressed = KColours.neutral300;
 
   // colors
   static const Color redSubtlest = KColours.red100;
